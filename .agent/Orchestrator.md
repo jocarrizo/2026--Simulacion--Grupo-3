@@ -31,6 +31,7 @@ Revisa los agentes disponibles en el directorio `@[.agent]`:
 *   `DataAnalyst.md`: Para exploración de datos, limpieza, análisis estadístico y creación de visualizaciones.
 *   `Plan_de_accion_Distribuciones.md`: Para ejecutar el flujo de trabajo de análisis y ajuste de distribuciones de datos (Fitter, Scipy).
 *   `Propuesta_de_TP.md`: Para generar o estructurar propuestas de trabajo práctico o proyectos.
+*   `SimulacionGimnasio.md`: Para entender, mantener y extender la simulación de gimnasio con cola de prioridades (TP4 — `src/TP4_Simulacion_Gimnasio.ipynb`). Modelo M/G/c/K con metodología Evento a Evento (EaE), credencial Premium y 4 escenarios comparativos.
 
 ### Paso 3: Crear un Plan de Ejecución
 * Divide la solicitud del usuario en pasos lógicos secuenciales.
